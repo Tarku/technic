@@ -1,0 +1,211 @@
+# template.txt
+# Template for translations of Technic
+
+
+## Misc
+[Technic] Loaded in %f seconds = [Technic] Chargé en %f secondes.
+
+## Items
+Silicon Wafer = Tranche de silicone
+Doped Silicon Wafer = Tranche de silicone dopée
+Enriched Uranium = Uranium enrichi
+Uranium Fuel = Carburant d'uranium
+Diamond Drill Head = Tête de foreuse en diamant
+Blue Energy Crystal = Cristal d'énergie bleu
+Green Energy Crystal = Cristal d'énergie vert
+Red Energy Crystal = Cristal d'énergie rouge
+Fine Copper Wire = Câble en cuivre fin
+Copper Coil = Fil de cuivre
+Electric Motor = Moteur électrique
+Low Voltage Transformer = Transformateur bas voltage
+Medium Voltage Transformer = Transformateur moyen voltage
+High Voltage Transformer = Transformateur voltage élevé
+Control Logic Unit = Unité de contrôle logique
+Mixed Metal Ingot = Lingot de métal allié
+Composite Plate = Plaque de composite
+Copper Plate = Plaque de cuivre
+Carbon Plate = Plaque de carbone
+Graphite = Graphite
+Carbon Cloth = Fibre de carbone
+Raw Latex = Latex 
+Rubber Fiber = Fibre de gomme
+%.1f%%-Fissile Uranium Ingot = %.1f%%-Lingot d'uranium fissuré
+%.1f%%-Fissile Uranium Block = %.1f%%-Bloc d'uranium fissuré
+
+## Machine misc
+Machine cannot be removed because it is not empty = La machine ne peut être cassée car elle n'est pas vide
+Inventory move disallowed due to protection = Mouvements d'objets interdits dus à la protection
+# $1: Machine name (Includes tier)
+@1 Active (@2 EU) = @1 Actif (@2 EU)
+%s Active = %s Actif
+%s Disabled = %s Désactivé
+%s Enabled = %s Autorisé
+%s Idle = %s au Repos
+%s Improperly Placed = %s n'est pas bien placé
+%s is empty = %s est vide
+%s Unpowered = %s Pas d'énergie
+%s Out Of Fuel = %s Plus de carburant
+%s Has Bad Cabling = %s a un mauvais cablage
+%s (Slave) = %s (Esclave)
+%s Has No Network = %s n'a pas de réseau
+%s Finished = %s est fini
+Enable/Disable = Activer/Désactiver
+Range = Portée
+Upgrade Slots = Cases d'améliorations
+In: = Intérieur: 
+Out: = Extérieur:
+Slot %d = Case %d
+Itemwise = 
+Stackwise =
+Ignoring Mesecon Signal = Ignorant le signal de Mesecons
+Controlled by Mesecon Signal = Controllé par le signal de Mesecons
+Owner: = Propriétaire: 
+Unlocked = Débloqué
+Locked = Bloqué
+Radius: = Rayon: 
+Enabled = Activé
+Disabled = Désactiver
+
+## Machine names
+# $1: Tier
+%s Alloy Furnace = %s Four à alliages
+%s Battery Box = %s Boîte de piles
+%s Cable = %s Câble
+%s CNC Machine = %s Fraiseuse
+%s Centrifuge = %s Centrifugeuse
+%s Compressor = %s Compresseur
+%s Extractor = %s Extracteur
+%s Forcefield Emitter = %s Émetteur de champ de force
+%s Furnace = %s Four
+%s Grinder = %s Broyeur
+%s Music Player = %s Joueur de musique
+%s Quarry = %s Carrière
+%s Tool Workshop = %s Boîte à outils
+Arrayed Solar %s Generator = 
+Fuel-Fired %s Generator = 
+Geothermal %s Generator =
+Hydro %s Generator =
+Nuclear %s Generator Core =
+Small Solar %s Generator =
+Wind %s Generator =
+Self-Contained Injector =
+Constructor Mk%d =
+Frame =
+Frame Motor =
+Template =
+Template (replacing) =
+Template Motor =
+Template Tool =
+Battery Box =
+Supply Converter =
+Switching Station =
+Fuel-Fired Alloy Furnace =
+Fuel-Fired Furnace =
+Wind Mill Frame =
+Forcefield =
+Nuclear Reactor Rod Compartment =
+Administrative World Anchor =
+
+## Machine-specific
+# $1: Pruduced EU
+Charge =
+Discharge =
+Power level =
+# $1: Tier $2: current_charge $3: max_charge 
+@1 Battery Box: @2/@3 =
+# $1: Machine name $2: Supply $3: Demand
+@1. Supply: @2 Demand: @3 =
+Production at %d%% =
+Choose Milling Program: =
+Slim Elements half / normal height: =
+Current track %s =
+Stopped =
+Keeping %d/%d map blocks loaded =
+Digging not started =
+Digging finished =
+Digging %d m above machine =
+Digging %d m below machine =
+@1 (@2 @3 -> @4 @5) =
+
+## CNC
+Cylinder =
+Element Cross =
+Element Cross Double =
+Element Edge =
+Element Edge Double =
+Element End =
+Element End Double =
+Element Straight =
+Element Straight Double =
+Element T =
+Element T Double =
+Horizontal Cylinder =
+One Curved Edge Block =
+Pyramid =
+Slope =
+Slope Edge =
+Slope Inner Edge =
+Slope Lying =
+Slope Upside Down =
+Slope Upside Down Edge =
+Slope Upside Down Inner Edge =
+Sphere =
+Spike =
+Stick =
+Two Curved Edge Block =
+Brick =
+Cobble =
+Dirt =
+Leaves =
+Sandstone =
+Stone =
+Tree =
+Wooden =
+
+## Grinder Recipes
+# $1: Name
+%s Dust =
+Akalin =
+Alatro =
+Arol =
+Brass =
+Bronze =
+Carbon Steel =
+Cast Iron =
+Chromium =
+Coal =
+Copper =
+Gold =
+Mithril =
+Silver =
+Stainless Steel =
+Talinite =
+Tin =
+Wrought Iron =
+Zinc =
+%.1f%%-Fissile Uranium =
+
+## Tools
+RE Battery =
+Water Can =
+Lava Can =
+Chainsaw =
+Flashlight =
+3 nodes deep. =
+3 nodes tall. =
+3 nodes wide. =
+3x3 nodes. =
+Use while sneaking to change Mining Drill Mk%d modes. =
+Mining Drill Mk%d Mode %d =
+Mining Drill Mk%d =
+Mining Laser Mk%d =
+Single node. =
+Sonic Screwdriver =
+Tree Tap =
+
+## Craft descriptions
+Alloy cooking =
+Grinding =
+Compressing =
+Extracting =
+Separating =
